@@ -1,5 +1,5 @@
 # Chromatic3D
-The Klipper full-color printing module achieves high-precision color printing on ordinary FDM 3D printers by integrating hardware control and software collaboration. Here is a detailed analysis of its core working principles:
+This Klipper full-color printing module (Chromatic3D)achieves high-precision color printing on ordinary FDM 3D printers by integrating hardware control and software collaboration. Here is a detailed analysis of its core working principles:
 
 ### I. Hardware Architecture and Workflow
 #### 1. Core Components of the Inkjet System
